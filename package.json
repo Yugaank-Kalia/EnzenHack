@@ -1,8 +1,8 @@
 {
-  "name": "enzenhack",
+  "name": "Enzenearth",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://enzenhack.github.io/enzenhack/",
+  "private": false,
+  "homepage": "https://enzenhack.github.io/Enzenearth/",
   "dependencies": {
     "antd": "^3.8.4",
     "axios": "^0.18.0",
