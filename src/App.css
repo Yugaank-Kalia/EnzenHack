@@ -1,0 +1,25 @@
+body{
+
+    background: #2C3A47;
+
+}
+.Land{
+
+    background: url('./marko-manojlovic-1098733-unsplash.jpg');
+    height: 897px;
+    background-size: 100%;
+    z-index: -1;
+    left: 0;
+    right: 0;
+
+}
+.Login{
+
+    background: url('./bonnie-kittle-186235-unsplash.jpg');
+    height: 897px;
+    background-size: 100%;
+    z-index: -1;
+    left: 0;
+    right: 0;
+
+}
